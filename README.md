@@ -24,6 +24,10 @@ Interactive Excel dashboard for analyzing 50,000 customer booking records, conve
 
 For the workbook internals and maintenance rules, see [TECHNICAL.md](TECHNICAL.md). For prerequisites, refresh steps, and a safe editing workflow, see [SETUP.md](SETUP.md).
 
+## License
+
+This project is available under the [MIT License](LICENSE). Reuse is permitted provided that the copyright and license notice crediting Eslam Mohamed are retained.
+
 ## Important handling notes
 
 - The workbook has no macros and no external workbook links.
