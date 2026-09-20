@@ -1,4 +1,4 @@
-# Customer Booking Analytics Dashboard
+# Excel Customer Booking Analytics Dashboard
 
 Interactive Excel dashboard for analyzing 50,000 customer booking records, conversion trends, services, and flight patterns. The workbook combines pivot-based analysis, slicers, and dashboard views for booking completion, routes, passenger counts, flight timing, and channel data.
 
