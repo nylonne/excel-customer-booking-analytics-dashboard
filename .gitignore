@@ -1,0 +1,14 @@
+# Microsoft Excel lock and recovery files
+~$*.xlsx
+~$*.xls
+*.tmp
+*.bak
+
+# Operating-system metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Untracked generated exports
+outputs/
+exports/
